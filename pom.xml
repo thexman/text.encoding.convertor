@@ -4,7 +4,7 @@
 	<groupId>com.a9ski.text.encoding</groupId>
 	<artifactId>convertor</artifactId>
 	<packaging>jar</packaging>
-	<version>1.0-SNAPSHOT</version>
+	<version>1.0</version>
 	<name>convertor</name>
 	<url>https://github.com/thexman/text.encoding.convertor</url>
 	<description>Command line utility for converting text files encoding</description>
